@@ -33,7 +33,7 @@ services:
       retries: 10
       start_period: 35s
     expose:
-      - "8084"
+      - "8084:8084"
 
   inventory-service:
     build:
