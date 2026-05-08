@@ -7,5 +7,7 @@ public enum Role {
     ROLE_USER,
     ROLE_ADMIN,
     ROLE_WAREHOUSE_MANAGER,
-
+    ROLE_SHIPMENT,
+    ROLE_ORDER,
+    ROLE_INVENTORY
 }
